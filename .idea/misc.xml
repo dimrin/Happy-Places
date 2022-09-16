@@ -3,7 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Android/HappyPlaces/app/src/main/res/layout/activity_main.xml" value="0.21927083333333333" />
+        <entry key="..\:/Android/HappyPlaces/app/src/main/res/drawable/ic_action_add_24dp.xml" value="0.2235" />
+        <entry key="..\:/Android/HappyPlaces/app/src/main/res/drawable/ic_delete_white_24dp.xml" value="0.259" />
+        <entry key="..\:/Android/HappyPlaces/app/src/main/res/drawable/ic_edit_white_24dp.xml" value="0.259" />
+        <entry key="..\:/Android/HappyPlaces/app/src/main/res/drawable/shape_button_rounded.xml" value="0.2235" />
+        <entry key="..\:/Android/HappyPlaces/app/src/main/res/drawable/shape_image_view_border.xml" value="0.2235" />
+        <entry key="..\:/Android/HappyPlaces/app/src/main/res/layout/activity_add_happy_place.xml" value="0.4" />
+        <entry key="..\:/Android/HappyPlaces/app/src/main/res/layout/activity_happy_place_detail.xml" value="0.4" />
+        <entry key="..\:/Android/HappyPlaces/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android/HappyPlaces/app/src/main/res/layout/activity_map.xml" value="0.33177083333333335" />
+        <entry key="..\:/Android/HappyPlaces/app/src/main/res/layout/fragment_maps.xml" value="0.33177083333333335" />
+        <entry key="..\:/Android/HappyPlaces/app/src/main/res/layout/item_happy_place.xml" value="0.264" />
       </map>
     </option>
   </component>
